@@ -1,4 +1,6 @@
-var number = 425468;
+var number = 42568;
+//var number = prompt("What is your name?");
+
 const str = number.toString();
 const result = [str[0]];
 
